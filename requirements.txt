@@ -1,0 +1,9 @@
+Use this content:
+
+```text
+pandas
+datasets
+transformers
+torch
+jsonlines
+pyyaml
