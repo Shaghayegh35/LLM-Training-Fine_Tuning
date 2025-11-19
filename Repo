@@ -1,0 +1,8 @@
+LLM-data-tokenization-pipeline/
+├─ README.md
+├─ requirements.txt
+├─ .gitignore
+├─ data/                      # (optional, for your own data)
+│   └─ lamini_docs.jsonl
+├─ data_preparation.ipynb         # tokenization / dataset prep
+└─ llm_finetuning_lamini_docs.ipynb  # training notebook
